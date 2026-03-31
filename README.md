@@ -42,8 +42,8 @@ Individual contribution to revenue
 Performance comparison
 
 # 📸 Dashboard Screenshots
-![Dashboard]Dashboard.png
-!(Dash.png)
+![Dashboard](Dashboard.png)
+![Dash](Dash.png)
 
 # 🛠️ Tools & Technologies
 Power BI
