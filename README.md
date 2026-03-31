@@ -42,7 +42,7 @@ This project focuses on analyzing sales data to uncover meaningful business insi
 
 
 
-![Dashboard]Screenshot 2026-03-31 162108.png
+![Dashboard](Screenshot 2026-03-31 162108.png)
 
 
 
