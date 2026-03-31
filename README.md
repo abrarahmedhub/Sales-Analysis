@@ -40,13 +40,10 @@ This project focuses on analyzing sales data to uncover meaningful business insi
 
 ## 📸 Dashboard Screenshots
 
-*(Add your screenshots here in GitHub like below)*
 
-```markdown
-![Dashboard Overview](./screenshots/overview.png)
-![Location Analysis](./screenshots/location.png)
-![Salesperson Analysis](./screenshots/salesperson.png)
-```
+
+![Dashboard Overview](Screenshot 2026-03-31 162108.png)
+
 
 
 ## 🛠️ Tools & Technologies
