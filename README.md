@@ -42,7 +42,7 @@ Individual contribution to revenue
 Performance comparison
 
 # 📸 Dashboard Screenshots
-!(Dashboard.png)
+![Dashboard]Dashboard.png
 !(Dash.png)
 
 # 🛠️ Tools & Technologies
