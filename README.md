@@ -43,7 +43,7 @@ Performance comparison
 
 # 📸 Dashboard Screenshots
 !(Dashboard.png)
-!(
+!(Dash.png)
 
 # 🛠️ Tools & Technologies
 Power BI
